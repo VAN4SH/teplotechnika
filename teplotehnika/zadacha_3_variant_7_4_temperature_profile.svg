@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="650" viewBox="0 0 980 650">
+<rect width="100%" height="100%" fill="white"/>
+<text x="490.0" y="36.0" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#222222">Задача 3: эпюра температуры через стенку</text>
+<line x1="95.0" y1="70.0" x2="95.0" y2="555.0" stroke="#e6e6e6" stroke-width="1" />
+<line x1="95.0" y1="555.0" x2="95.0" y2="562.0" stroke="#222222" stroke-width="1.4" />
+<text x="95.0" y="585.0" font-family="Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#222222">0,000</text>
+<line x1="292.6" y1="70.0" x2="292.6" y2="555.0" stroke="#e6e6e6" stroke-width="1" />
+<line x1="292.6" y1="555.0" x2="292.6" y2="562.0" stroke="#222222" stroke-width="1.4" />
+<text x="292.6" y="585.0" font-family="Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#222222">0,002</text>
+<line x1="490.2" y1="70.0" x2="490.2" y2="555.0" stroke="#e6e6e6" stroke-width="1" />
+<line x1="490.2" y1="555.0" x2="490.2" y2="562.0" stroke="#222222" stroke-width="1.4" />
+<text x="490.2" y="585.0" font-family="Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#222222">0,004</text>
+<line x1="687.9" y1="70.0" x2="687.9" y2="555.0" stroke="#e6e6e6" stroke-width="1" />
+<line x1="687.9" y1="555.0" x2="687.9" y2="562.0" stroke="#222222" stroke-width="1.4" />
+<text x="687.9" y="585.0" font-family="Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#222222">0,006</text>
+<line x1="885.5" y1="70.0" x2="885.5" y2="555.0" stroke="#e6e6e6" stroke-width="1" />
+<line x1="885.5" y1="555.0" x2="885.5" y2="562.0" stroke="#222222" stroke-width="1.4" />
+<text x="885.5" y="585.0" font-family="Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#222222">0,008</text>
+<line x1="95.0" y1="555.0" x2="925.0" y2="555.0" stroke="#e6e6e6" stroke-width="1" />
+<line x1="88.0" y1="555.0" x2="95.0" y2="555.0" stroke="#222222" stroke-width="1.4" />
+<text x="82.0" y="560.0" font-family="Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#222222">0</text>
+<line x1="95.0" y1="503.4" x2="925.0" y2="503.4" stroke="#e6e6e6" stroke-width="1" />
+<line x1="88.0" y1="503.4" x2="95.0" y2="503.4" stroke="#222222" stroke-width="1.4" />
+<text x="82.0" y="508.4" font-family="Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#222222">50</text>
+<line x1="95.0" y1="451.8" x2="925.0" y2="451.8" stroke="#e6e6e6" stroke-width="1" />
+<line x1="88.0" y1="451.8" x2="95.0" y2="451.8" stroke="#222222" stroke-width="1.4" />
+<text x="82.0" y="456.8" font-family="Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#222222">100</text>
+<line x1="95.0" y1="400.2" x2="925.0" y2="400.2" stroke="#e6e6e6" stroke-width="1" />
+<line x1="88.0" y1="400.2" x2="95.0" y2="400.2" stroke="#222222" stroke-width="1.4" />
+<text x="82.0" y="405.2" font-family="Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#222222">150</text>
+<line x1="95.0" y1="348.6" x2="925.0" y2="348.6" stroke="#e6e6e6" stroke-width="1" />
+<line x1="88.0" y1="348.6" x2="95.0" y2="348.6" stroke="#222222" stroke-width="1.4" />
+<text x="82.0" y="353.6" font-family="Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#222222">200</text>
+<line x1="95.0" y1="297.0" x2="925.0" y2="297.0" stroke="#e6e6e6" stroke-width="1" />
+<line x1="88.0" y1="297.0" x2="95.0" y2="297.0" stroke="#222222" stroke-width="1.4" />
+<text x="82.0" y="302.0" font-family="Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#222222">250</text>
+<line x1="95.0" y1="245.4" x2="925.0" y2="245.4" stroke="#e6e6e6" stroke-width="1" />
+<line x1="88.0" y1="245.4" x2="95.0" y2="245.4" stroke="#222222" stroke-width="1.4" />
+<text x="82.0" y="250.4" font-family="Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#222222">300</text>
+<line x1="95.0" y1="193.8" x2="925.0" y2="193.8" stroke="#e6e6e6" stroke-width="1" />
+<line x1="88.0" y1="193.8" x2="95.0" y2="193.8" stroke="#222222" stroke-width="1.4" />
+<text x="82.0" y="198.8" font-family="Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#222222">350</text>
+<line x1="95.0" y1="142.2" x2="925.0" y2="142.2" stroke="#e6e6e6" stroke-width="1" />
+<line x1="88.0" y1="142.2" x2="95.0" y2="142.2" stroke="#222222" stroke-width="1.4" />
+<text x="82.0" y="147.2" font-family="Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#222222">400</text>
+<line x1="95.0" y1="90.6" x2="925.0" y2="90.6" stroke="#e6e6e6" stroke-width="1" />
+<line x1="88.0" y1="90.6" x2="95.0" y2="90.6" stroke="#222222" stroke-width="1.4" />
+<text x="82.0" y="95.6" font-family="Arial, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#222222">450</text>
+<line x1="95.0" y1="555.0" x2="925.0" y2="555.0" stroke="#222222" stroke-width="2" />
+<line x1="95.0" y1="70.0" x2="95.0" y2="555.0" stroke="#222222" stroke-width="2" />
+<text x="510.0" y="620.0" font-family="Arial, sans-serif" font-size="17" font-weight="normal" text-anchor="middle" fill="#222222">Суммарное тепловое сопротивление от газа, м2*K/Вт</text>
+<text x="30" y="312.5" font-family="Arial, sans-serif" font-size="17" text-anchor="middle" fill="#222222" transform="rotate(-90 30 312.5)">t, °C</text>
+<polyline points="95.0,90.6 113.3,100.6 115.9,102.1 906.3,534.4" fill="none" stroke="#1368aa" stroke-width="4"/>
+<circle cx="95.0" cy="90.6" r="5" fill="#1368aa"/>
+<circle cx="113.3" cy="100.6" r="5" fill="#1368aa"/>
+<circle cx="115.9" cy="102.1" r="5" fill="#1368aa"/>
+<circle cx="906.3" cy="534.4" r="5" fill="#1368aa"/>
+<line x1="690.0" y1="100.0" x2="725.0" y2="100.0" stroke="#1368aa" stroke-width="4" />
+<text x="735.0" y="105.0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#1368aa">без накипи</text>
+<polyline points="95.0,90.6 113.3,100.5 118.2,103.2 120.8,104.7 911.3,534.4" fill="none" stroke="#d12f2f" stroke-width="4"/>
+<circle cx="95.0" cy="90.6" r="5" fill="#d12f2f"/>
+<circle cx="113.3" cy="100.5" r="5" fill="#d12f2f"/>
+<circle cx="118.2" cy="103.2" r="5" fill="#d12f2f"/>
+<circle cx="120.8" cy="104.7" r="5" fill="#d12f2f"/>
+<circle cx="911.3" cy="534.4" r="5" fill="#d12f2f"/>
+<line x1="690.0" y1="130.0" x2="725.0" y2="130.0" stroke="#d12f2f" stroke-width="4" />
+<text x="735.0" y="135.0" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#d12f2f">с накипью</text>
+<text x="896.3" y="522.4" font-family="Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="end" fill="#555555">самый большой перепад: теплоотдача к воде</text>
+</svg>
